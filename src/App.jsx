@@ -27,6 +27,7 @@ const App = () => {
 
       
       <CustomCursor/>
+      <IntroAnimation />
 
       <Navbar />
       <Home />
